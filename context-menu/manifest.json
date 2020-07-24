@@ -1,0 +1,16 @@
+{
+
+  "manifest_version": 2,
+  "name": "Investigation - Link Context Menu",
+  "description": "Test creating a menu with dynamic submenu items.",
+  "version": "0.1",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+      "menus"
+  ]
+
+}
