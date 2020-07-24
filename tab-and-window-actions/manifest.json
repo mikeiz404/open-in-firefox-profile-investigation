@@ -1,0 +1,14 @@
+{
+
+  "manifest_version": 2,
+  "name": "Investigation - Open URL in Tab and Window",
+  "description": "Test opening a URL in either a tab or window from the background script.",
+  "version": "0.1",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": []
+
+}
