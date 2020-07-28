@@ -5,4 +5,5 @@
     - [ ] via webrtc
 - [ ] modify a link open action
     - [x] context menu
-    - [ ] link click
+    - [x] tab domain mismatch
+    - [x] link click

@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+
+    "name": "Investigation - Web Navigation Intercept",
+    "description": "Test how navigation can be intercepted and filtered.",
+    "version": "0.1",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "<all_urls>",
+        "webRequest",
+        "webRequestBlocking",
+        "tabs"
+    ]
+
+}
